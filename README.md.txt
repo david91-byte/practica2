@@ -1,1 +1,1 @@
-En este repositorio voy a subir todos los ejercicios de la practica 2
+Aca voy a subir todas las actividades por python plus
